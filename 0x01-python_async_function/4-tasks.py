@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-""" asynchronous coroutine waits for a random delay """
+"""This module holds task_wait_n method"""
+
 from typing import List
 import asyncio
 import random
